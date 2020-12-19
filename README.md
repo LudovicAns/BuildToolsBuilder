@@ -9,7 +9,7 @@ Spigot BuildTools permitte you to build the latest version of a spigot.jar.
 * Install BuildTools, execute install script and follow instructions:  
 `sh install.sh`
 
-## Build specific spigot JAR
+## Build specific spigot JAR [WIP]
 IMPORTANT: You need to do installation before !
 
 * Run buildSpigot script and follow instructions:  
