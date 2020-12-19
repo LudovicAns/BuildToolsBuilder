@@ -11,5 +11,5 @@ if [$version = "latest"]
 then
 	echo "Impossible de deplacer le .jar dans le dossier de sortie. Le .jar est à la racine du dossier."
 else
-	mv spigot-$version.jar Output/
+	mv spigot-$version.jar ../Output/
 fi
