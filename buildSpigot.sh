@@ -1,7 +1,3 @@
-echo "Mise à jour du BuildTools..."
-sleep 1.5
-sh getBuildTools.sh
-sleep 1.5
 echo "Quelle version de spigot faut-il build ?"
 read version
 echo "Tentative de build..."
